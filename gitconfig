@@ -1,7 +1,6 @@
 [user]
-	name = Christian Kellner
-	email = christian@kellner.me
-	SigningKey = 64E876E00BC901FF
+	name = Jan Grewe
+	email = jan.grewe@g-node.org
 
 
 [mergetool]
@@ -24,7 +23,7 @@
 	co = checkout
 
 [core]
-	editor = /usr/bin/vim
+	editor = /usr/bin/emacs
 
 [push]
 	default = simple
